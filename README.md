@@ -11,7 +11,7 @@ I focus on building tools that reduce manual compliance effort and improve secur
 - ISO/IEC **27001:2022 Lead Auditor**
 - Ranked in the **Top 2% globally on TryHackMe**
 - Strong understanding of **risk assessment, compliance mapping, and control validation**
-- Interested in **DevSecOps & security automation**
+- Interested in **security automation**
 
 ---
 
