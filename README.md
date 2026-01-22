@@ -56,5 +56,5 @@ Performance-optimized personal website showcasing projects and experience.
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/SonorousGuardian
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_HERE
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/amritesh-shrivastava-ba76a9259/
+- Email: amriteshshree@gmail.com
